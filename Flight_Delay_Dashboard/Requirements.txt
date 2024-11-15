@@ -4,16 +4,36 @@ This is a Python Dashboard program
 An introductory Data Analyst Project that I did during my learning time 
 
 To make this program work properly You will need to install the dash, plotly, and pandas library
-
--> pip3 install pandas
--> pip3 install dash
--> pip3 install plotly
-
-||
-
--> pip3 install dash, pandas, plotly
+|-------------------------|
+|-> pip3 install pandas   |
+|-> pip3 install dash     |
+|-> pip3 install plotly   |
+|-------------------------|
+OR
+|---------------------------------------|
+| -> pip3 install dash, pandas, plotly  |
+|---------------------------------------|
 
 it is best that if you install these libraries separately
+
+--------------------------------------------------------------
+
+Next step to remember would be to click on the link when running the program 
+|-------------------------|
+|  http://127.0.0.1:8050  |
+|-------------------------|
+          ^
+          |
+          |
+        Click on this link
+        After Running the program
+
+-----------------------------------------------------------
+
+** The link will only appear in your terminal after you run your program 
+        
+
+
 
 
 '''
