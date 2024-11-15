@@ -1,0 +1,19 @@
+'''
+This is a Python Dashboard program 
+
+An introductory Data Analyst Project that I did during my learning time 
+
+To make this program work properly You will need to install the dash, plotly, and pandas library
+
+-> pip3 install pandas
+-> pip3 install dash
+-> pip3 install plotly
+
+||
+
+-> pip3 install dash, pandas, plotly
+
+it is best that if you install these libraries separately
+
+
+'''
